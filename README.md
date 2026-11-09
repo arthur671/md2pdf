@@ -157,6 +157,10 @@ md2pdf deliberately stays small. These are not handled:
 - block quotes (`>`) and fenced code blocks (` ``` `) render as normal paragraphs
 - custom fonts; text uses the built-in PDF fonts, which cover Western European characters but not e.g. Cyrillic, Greek or CJK
 
+## Related
+
+[pdf-pixel-diff](https://github.com/arthur671/pdf-pixel-diff) compares two PDFs and marks every change in red, also fully local. Useful for contracts: when a document you made with md2pdf comes back "with small corrections", it shows exactly what was changed.
+
 ## License
 
 [MIT](LICENSE)
