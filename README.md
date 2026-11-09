@@ -161,6 +161,12 @@ md2pdf deliberately stays small. These are not handled:
 
 [pdf-pixel-diff](https://github.com/arthur671/pdf-pixel-diff) compares two PDFs and marks every change in red, also fully local. Useful for contracts: when a document you made with md2pdf comes back "with small corrections", it shows exactly what was changed.
 
+## Support
+
+If this tool saved you some time, you can [buy me a coffee on Ko-fi](https://ko-fi.com/arthur9366) ☕
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/arthur9366)
+
 ## License
 
 [MIT](LICENSE)
